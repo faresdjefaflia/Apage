@@ -1,5 +1,5 @@
 ---
-title: 'Prifacy Policy'
+title: 'Privacy Policy'
 ---
 
 Privacy Policy for "Tasky" Application
