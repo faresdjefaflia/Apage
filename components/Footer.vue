@@ -22,7 +22,7 @@
       <section class="container m-auto">
         <div class="text-center lg:flex justify-between py-[22.5px]">
           <p class="font-extralight text-white">Copyright 2023, All Rights Reserved</p>
-          <NuxtLink class="font-extralight text-white hidden lg:block" to="/article/prifacypolicy">Privacy Policy</NuxtLink>
+          <NuxtLink class="font-extralight text-white hidden lg:block" to="/article/privacypolicy">Privacy Policy</NuxtLink>
         </div>
       </section>
     </section>
