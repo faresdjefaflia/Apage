@@ -9,7 +9,7 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/png', href: '/favicon.ico' }
       ],
     },
-    baseURL: '/apage/',
+    baseURL: '/Apage/',
     buildAssetsDir: "nuxt"
   },
   modules: [
