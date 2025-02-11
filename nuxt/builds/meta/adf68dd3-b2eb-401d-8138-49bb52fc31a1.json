@@ -1,0 +1,1 @@
+{"id":"adf68dd3-b2eb-401d-8138-49bb52fc31a1","timestamp":1739307357109,"matcher":{"static":{"/api/content/content/database.sql":{"prerender":true},"/api/content/blog/database.sql":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/","/article","/article/aboutus","/article/privacypolicy"]}
