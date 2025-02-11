@@ -1,6 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
+
   app: {
     head: {
       link: [
@@ -9,14 +10,10 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/png', href: '/favicon.ico' }
       ],
     },
-    baseURL: '/Apage/',
+    // baseURL: '/Apage/',
     buildAssetsDir: "nuxt"
   },
-  modules: [
-    '@nuxtjs/tailwindcss',
-    '@nuxt/content',
-  ],
-  routeRules: {
-    '/**': { prerender: true }
-  }
+
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/content'],
+  compatibilityDate: '2025-02-11',
 })
