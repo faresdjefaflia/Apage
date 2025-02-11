@@ -1,0 +1,1 @@
+google.com, [Publisher_ID], [Ad_Type]

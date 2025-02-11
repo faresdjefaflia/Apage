@@ -1,0 +1,39 @@
+{
+  "SectionOne": [
+    {
+      "title": "Goal and vision",
+      "description": "Our goal at Tasky is to simplify task management boost productivity,and help users achieve their goals effortlessly."
+    }
+  ],
+  "GoalList": [
+    {
+      "title": "Streamlined Task Management",
+      "description": "Our app aims to offer a streamlined and intuitive platform for managing tasks, projects, and deadlines. Users can easily create, assign, and track tasks, ensuring efficient task management.",
+      
+      "isOpen": false
+    },
+    {
+      "title": "Insightful Analytics",
+      "description": " We aim to provide users with valuable insights into their productivity and performance. Through detailed analytics and reports, users can track their progress, identify areas for improvement, and make data-driven decisions to enhance their efficiency.",
+      
+      "isOpen": false
+    },
+    {
+      "title": "Automated Reminders",
+      "description": "Our app strives to eliminate missed deadlines and forgotten tasks. With automated reminders and notifications, users stay on top of their tasks and never overlook important deadlines.",
+      
+      "isOpen": false
+    },
+    {
+      "title": "Seamless Collaboration",
+      "description": "We aim to facilitate seamless collaboration among individuals and teams. Our app provides real-time collaboration features, enabling users to share tasks, communicate effectively, and collaborate on projects for improved productivity.",
+      
+      "isOpen": false
+    }
+  ],
+  "SectionTwo": [
+    {
+      "vision": "Our vision is to revolutionize task management and productivity by providing a user-friendly app that simplifies lives and empowers users to achieve more."
+    }
+  ]
+}
