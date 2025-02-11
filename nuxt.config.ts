@@ -16,4 +16,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxt/content',
   ],
+  routeRules: {
+    '/**': { prerender: true }
+  }
 })

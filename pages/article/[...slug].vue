@@ -4,7 +4,7 @@
       {{ data.title }}
     </h1>
     <ContentDoc v-if="data" class="article prose-basic prose-lg lg:prose-xl" />
-    <p v-else class="text-red-500">المحتوى غير متوفر</p>
+    <p v-else class="text-red-500">not found data</p>
   </section>
 </template>
 
